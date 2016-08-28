@@ -1,0 +1,208 @@
+cost is 1736
+
+
+Nodes:(in each line,first is must,other is not)
+171,295,
+639,295,701,
+836,701,490,
+750,490,83,
+343,83,338,
+511,338,600,
+286,600,870,
+672,870,538,
+24,538,688,
+432,688,278,
+487,278,46,
+143,46,837,
+68,837,169,
+113,169,610,
+144,610,727,
+371,727,505,
+527,505,204,
+970,204,710,
+131,710,545,
+514,545,125,
+846,125,352,
+189,352,182,
+575,182,37,
+864,37,264,
+397,264,464,
+882,464,216,
+764,216,580,
+623,580,993,
+851,993,47,
+787,47,964,
+79,964,557,
+36,557,493,
+791,493,801,
+462,801,587,
+398,587,769,
+579,769,789,
+544,789,572,
+504,572,421,
+649,421,668,
+583,668,519,
+457,519,71,
+74,71,712,
+384,712,346,
+961,346,483,
+259,483,275,
+97,275,155,
+868,155,814,
+960,814,461,
+515,461,178,
+332,178,112,
+540,112,117,
+207,117,541,
+443,541,759,
+214,759,923,
+439,923,959,
+931,959,65,
+410,65,467,
+161,467,96,
+659,96,636,
+339,636,290,
+279,290,671,
+406,671,642,
+320,642,536,
+433,536,509,
+159,509,898,
+524,898,632,
+8,632,835,
+879,835,658,
+928,658,706,
+39,706,162,
+799,162,638,
+528,638,38,
+826,38,614,
+766,614,878,
+358,878,920,
+897,920,900,
+270,900,947,
+751,947,272,
+27,272,631,
+103,631,724,
+978,724,145,
+48,145,205,
+595,205,916,
+767,916,880,
+502,880,90,
+334,90,709,
+913,709,629,
+285,629,784,
+391,784,255,
+266,255,733,
+66,733,874,
+616,874,792,
+942,792,838,
+119,838,914,
+221,914,241,
+695,241,796,
+404,796,44,
+531,44,405,
+257,405,683,
+875,683,564,
+99,564,708,2,
+694
+
+/**************************** start repeated node >>> *******************************/
+node 37 is used = 2 times		Add non-must-node 37 to V'
+node 38 is used = 2 times		Add non-must-node 38 to V'
+node 44 is used = 2 times		Add non-must-node 44 to V'
+node 46 is used = 2 times		Add non-must-node 46 to V'
+node 47 is used = 2 times		Add non-must-node 47 to V'
+node 65 is used = 2 times		Add non-must-node 65 to V'
+node 71 is used = 2 times		Add non-must-node 71 to V'
+node 83 is used = 2 times		Add non-must-node 83 to V'
+node 90 is used = 2 times		Add non-must-node 90 to V'
+node 96 is used = 2 times		Add non-must-node 96 to V'
+node 112 is used = 2 times		Add non-must-node 112 to V'
+node 117 is used = 2 times		Add non-must-node 117 to V'
+node 125 is used = 2 times		Add non-must-node 125 to V'
+node 145 is used = 2 times		Add non-must-node 145 to V'
+node 155 is used = 2 times		Add non-must-node 155 to V'
+node 162 is used = 2 times		Add non-must-node 162 to V'
+node 169 is used = 2 times		Add non-must-node 169 to V'
+node 178 is used = 2 times		Add non-must-node 178 to V'
+node 182 is used = 2 times		Add non-must-node 182 to V'
+node 204 is used = 2 times		Add non-must-node 204 to V'
+node 205 is used = 2 times		Add non-must-node 205 to V'
+node 216 is used = 2 times		Add non-must-node 216 to V'
+node 241 is used = 2 times		Add non-must-node 241 to V'
+node 255 is used = 2 times		Add non-must-node 255 to V'
+node 264 is used = 2 times		Add non-must-node 264 to V'
+node 272 is used = 2 times		Add non-must-node 272 to V'
+node 275 is used = 2 times		Add non-must-node 275 to V'
+node 278 is used = 2 times		Add non-must-node 278 to V'
+node 290 is used = 2 times		Add non-must-node 290 to V'
+node 295 is used = 2 times		Add non-must-node 295 to V'
+node 338 is used = 2 times		Add non-must-node 338 to V'
+node 346 is used = 2 times		Add non-must-node 346 to V'
+node 352 is used = 2 times		Add non-must-node 352 to V'
+node 405 is used = 2 times		Add non-must-node 405 to V'
+node 421 is used = 2 times		Add non-must-node 421 to V'
+node 461 is used = 2 times		Add non-must-node 461 to V'
+node 464 is used = 2 times		Add non-must-node 464 to V'
+node 467 is used = 2 times		Add non-must-node 467 to V'
+node 483 is used = 2 times		Add non-must-node 483 to V'
+node 490 is used = 2 times		Add non-must-node 490 to V'
+node 493 is used = 2 times		Add non-must-node 493 to V'
+node 505 is used = 2 times		Add non-must-node 505 to V'
+node 509 is used = 2 times		Add non-must-node 509 to V'
+node 519 is used = 2 times		Add non-must-node 519 to V'
+node 536 is used = 2 times		Add non-must-node 536 to V'
+node 538 is used = 2 times		Add non-must-node 538 to V'
+node 541 is used = 2 times		Add non-must-node 541 to V'
+node 545 is used = 2 times		Add non-must-node 545 to V'
+node 557 is used = 2 times		Add non-must-node 557 to V'
+node 564 is used = 2 times		Add non-must-node 564 to V'
+node 572 is used = 2 times		Add non-must-node 572 to V'
+node 580 is used = 2 times		Add non-must-node 580 to V'
+node 587 is used = 2 times		Add non-must-node 587 to V'
+node 600 is used = 2 times		Add non-must-node 600 to V'
+node 610 is used = 2 times		Add non-must-node 610 to V'
+node 614 is used = 2 times		Add non-must-node 614 to V'
+node 629 is used = 2 times		Add non-must-node 629 to V'
+node 631 is used = 2 times		Add non-must-node 631 to V'
+node 632 is used = 2 times		Add non-must-node 632 to V'
+node 636 is used = 2 times		Add non-must-node 636 to V'
+node 638 is used = 2 times		Add non-must-node 638 to V'
+node 642 is used = 2 times		Add non-must-node 642 to V'
+node 658 is used = 2 times		Add non-must-node 658 to V'
+node 668 is used = 2 times		Add non-must-node 668 to V'
+node 671 is used = 2 times		Add non-must-node 671 to V'
+node 683 is used = 2 times		Add non-must-node 683 to V'
+node 688 is used = 2 times		Add non-must-node 688 to V'
+node 701 is used = 2 times		Add non-must-node 701 to V'
+node 706 is used = 2 times		Add non-must-node 706 to V'
+node 709 is used = 2 times		Add non-must-node 709 to V'
+node 710 is used = 2 times		Add non-must-node 710 to V'
+node 712 is used = 2 times		Add non-must-node 712 to V'
+node 724 is used = 2 times		Add non-must-node 724 to V'
+node 727 is used = 2 times		Add non-must-node 727 to V'
+node 733 is used = 2 times		Add non-must-node 733 to V'
+node 759 is used = 2 times		Add non-must-node 759 to V'
+node 769 is used = 2 times		Add non-must-node 769 to V'
+node 784 is used = 2 times		Add non-must-node 784 to V'
+node 789 is used = 2 times		Add non-must-node 789 to V'
+node 792 is used = 2 times		Add non-must-node 792 to V'
+node 796 is used = 2 times		Add non-must-node 796 to V'
+node 801 is used = 2 times		Add non-must-node 801 to V'
+node 814 is used = 2 times		Add non-must-node 814 to V'
+node 835 is used = 2 times		Add non-must-node 835 to V'
+node 837 is used = 2 times		Add non-must-node 837 to V'
+node 838 is used = 2 times		Add non-must-node 838 to V'
+node 870 is used = 2 times		Add non-must-node 870 to V'
+node 874 is used = 2 times		Add non-must-node 874 to V'
+node 878 is used = 2 times		Add non-must-node 878 to V'
+node 880 is used = 2 times		Add non-must-node 880 to V'
+node 898 is used = 2 times		Add non-must-node 898 to V'
+node 900 is used = 2 times		Add non-must-node 900 to V'
+node 914 is used = 2 times		Add non-must-node 914 to V'
+node 916 is used = 2 times		Add non-must-node 916 to V'
+node 920 is used = 2 times		Add non-must-node 920 to V'
+node 923 is used = 2 times		Add non-must-node 923 to V'
+node 947 is used = 2 times		Add non-must-node 947 to V'
+node 959 is used = 2 times		Add non-must-node 959 to V'
+node 964 is used = 2 times		Add non-must-node 964 to V'
+node 993 is used = 2 times		Add non-must-node 993 to V'

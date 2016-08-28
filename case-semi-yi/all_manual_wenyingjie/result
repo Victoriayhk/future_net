@@ -1,0 +1,998 @@
+case1
+reading data time is:1.136000 ms
+路径[1]的必经点个数:13 
+0  1  5  7  12  14  15  35  43  45  49  51  52  
+路径[2]的必经点个数:14 
+0  3  11  13  17  19  33  37  39  44  46  47  62  52  
+TotalEdges:31
+TotalCost:1056
+TotalEdges:35
+TotalCost:1060
+初始重复边集合:
+27  30  36  41  43  106  119  120  121  122  94  
+TotalEdges:28
+TotalCost:1269
+path2上的必经边:
+25  41  106  119  120  121  122  94  
+TotalEdges:24
+TotalCost:1463
+path1上的必经边:
+27  41  92  
+不考虑重复边情况时两条路径的最小权值: 2116
+路径1优先时两条路径总权值: 2325
+repeatededgesnum:8
+路径2优先时两条路径总权值: 2523
+repeatededgesnum:3
+second is better
+不包括必经重复边的重复边集合:43  30  36  
+第一步处理结束运行时间:49.140000 ms
+最大可循环次数394
+STEP = 12
+TotalEdges:35
+TotalCost:1072
+TotalEdges:35
+TotalCost:1096
+更新的重复边集合:43  
+STEP = 112
+TotalEdges:35
+TotalCost:1078
+TotalEdges:39
+TotalCost:1309
+更新的重复边集合:
+edge 43 can be on either path
+egde 30 belong to path2
+egde 36 belong to path2
+egde 27 belong to path2
+egde 94 belong to path1
+egde 122 belong to path1
+egde 121 belong to path1
+egde 120 belong to path1
+egde 119 belong to path1
+egde 106 belong to path1
+egde 41 belong to path1
+结束循环时程序运行时间:103.905000 ms
+TotalEdges:35
+TotalCost:1060
+TotalEdges:24
+TotalCost:1560
+第1种情况下重复边条数= 3
+第1种情况下权值: 1060 + 1560 =2620
+Path[1]:24 nodes
+0|3|8|11|15|21|23|25|27|29|35|40|42|69|73|77|79|84|90|92|95|117|104|108|
+Path[2]:35 nodes
+2|6|10|12|17|23|26|52|39|54|55|56|57|62|27|30|36|41|43|67|70|75|78|82|89|100|92|94|98|106|119|120|121|122|129|
+程序剩余可执行时间:9679.291000 ms
+TotalEdges:28
+TotalCost:1350
+TotalEdges:28
+TotalCost:1269
+第2种情况下的重复边条数 = 2
+第2种情况下的权值 1350 + 1269 = 2619
+Path[1]:28 nodes
+0|3|8|11|15|22|33|25|27|31|39|54|55|56|57|64|43|69|73|77|81|88|90|92|95|117|104|108|
+Path[2]:28 nodes
+2|6|10|12|17|23|25|28|52|37|41|42|67|70|75|78|82|89|100|92|94|98|106|119|120|121|122|129|
+search_route函数运行总时间:147.338000 ms
+searching route time is:147.394000 ms
+write file time is:0.146000 ms
+total running time is 148.676000 ms
+case2
+reading data time is:0.422000 ms
+路径[1]的必经点个数:13 
+0  1  5  7  12  14  15  35  43  45  49  51  52  
+路径[2]的必经点个数:14 
+0  3  11  13  17  19  33  37  39  44  46  47  58  52  
+TotalEdges:31
+TotalCost:1028
+TotalEdges:38
+TotalCost:1035
+初始重复边集合:
+27  30  36  41  42  93  117  106  119  120  121  122  127  94  97  103  108  
+TotalEdges:31
+TotalCost:1736
+path2上的必经边:
+25  41  90  94  
+TotalEdges:24
+TotalCost:1427
+path1上的必经边:
+27  41  117  108  
+不考虑重复边情况时两条路径的最小权值: 2063
+路径1优先时两条路径总权值: 2764
+repeatededgesnum:4
+路径2优先时两条路径总权值: 2462
+repeatededgesnum:4
+second is better
+不包括必经重复边的重复边集合:97  30  36  127  42  93  103  106  119  120  121  122  
+第一步处理结束运行时间:21.745000 ms
+最大可循环次数897
+STEP = 1
+TotalEdges:31
+TotalCost:1040
+TotalEdges:38
+TotalCost:1047
+更新的重复边集合:30  36  42  93  106  119  120  121  122  127  97  103  
+STEP = 27
+TotalEdges:0
+TotalCost:0
+TotalEdges:36
+TotalCost:1239
+更新的重复边集合:
+edge 97 can be on either path
+egde 30 belong to path2
+egde 36 belong to path2
+edge 127 can be on either path
+edge 42 can be on either path
+edge 93 can be on either path
+edge 103 can be on either path
+egde 106 belong to path2
+egde 119 belong to path2
+egde 120 belong to path2
+egde 121 belong to path2
+egde 122 belong to path2
+egde 108 belong to path2
+egde 117 belong to path2
+egde 27 belong to path2
+egde 94 belong to path1
+egde 41 belong to path1
+结束循环时程序运行时间:61.090000 ms
+TotalEdges:38
+TotalCost:1035
+TotalEdges:24
+TotalCost:1524
+第1种情况下重复边条数= 4
+第1种情况下权值: 1035 + 1524 =2559
+Path[1]:24 nodes
+0|3|8|11|15|21|23|25|27|29|35|40|43|69|73|77|79|84|90|92|95|117|104|108|
+Path[2]:38 nodes
+2|6|10|12|17|23|26|52|39|54|55|56|57|62|27|30|36|41|42|67|70|75|78|82|89|100|93|117|106|119|120|121|122|127|94|97|103|108|
+程序剩余可执行时间:9726.594000 ms
+TotalEdges:28
+TotalCost:1322
+TotalEdges:36
+TotalCost:1539
+第2种情况下的重复边条数 = 3
+第2种情况下的权值 1322 + 1539 = 2861
+Path[1]:28 nodes
+0|3|8|11|15|22|33|25|27|31|39|54|55|56|57|64|42|69|73|77|81|88|90|92|95|117|104|108|
+Path[2]:36 nodes
+2|6|10|12|17|23|25|28|52|37|41|43|67|70|75|78|83|90|93|118|116|113|86|110|74|81|89|101|94|98|106|119|120|121|122|129|
+search_route函数运行总时间:110.850000 ms
+searching route time is:110.874000 ms
+write file time is:0.134000 ms
+total running time is 111.430000 ms
+case3
+reading data time is:0.399000 ms
+路径[1]的必经点个数:13 
+0  1  5  7  12  14  15  35  43  45  49  51  52  
+路径[2]的必经点个数:15 
+0  3  11  13  17  19  33  37  39  44  46  47  58  62  52  
+TotalEdges:31
+TotalCost:1023
+TotalEdges:38
+TotalCost:1030
+初始重复边集合:
+27  30  36  41  42  93  117  106  119  120  121  122  127  94  97  103  108  
+TotalEdges:29
+TotalCost:1248
+path2上的必经边:
+25  41  117  106  119  120  121  122  94  
+TotalEdges:24
+TotalCost:1434
+path1上的必经边:
+27  41  117  108  
+不考虑重复边情况时两条路径的最小权值: 2053
+路径1优先时两条路径总权值: 2271
+repeatededgesnum:9
+路径2优先时两条路径总权值: 2464
+repeatededgesnum:4
+second is better
+不包括必经重复边的重复边集合:127  30  36  97  42  93  103  
+第一步处理结束运行时间:22.855000 ms
+最大可循环次数853
+STEP = 1
+TotalEdges:31
+TotalCost:1030
+TotalEdges:38
+TotalCost:1037
+更新的重复边集合:30  36  42  93  127  97  103  
+STEP = 45
+TotalEdges:39
+TotalCost:1191
+TotalEdges:36
+TotalCost:1147
+更新的重复边集合:
+edge 127 can be on either path
+egde 30 belong to path2
+egde 36 belong to path2
+egde 97 belong to path1
+edge 42 can be on either path
+egde 93 belong to path1
+egde 103 belong to path1
+egde 108 belong to path2
+egde 27 belong to path2
+egde 94 belong to path1
+egde 122 belong to path1
+egde 121 belong to path1
+egde 120 belong to path1
+egde 119 belong to path1
+egde 106 belong to path1
+egde 117 belong to path1
+egde 41 belong to path1
+结束循环时程序运行时间:54.430000 ms
+TotalEdges:36
+TotalCost:1035
+TotalEdges:24
+TotalCost:1531
+第1种情况下重复边条数= 4
+第1种情况下权值: 1035 + 1531 =2566
+Path[1]:24 nodes
+0|3|8|11|15|21|23|25|27|29|35|40|43|69|73|77|79|84|90|92|95|117|104|108|
+Path[2]:36 nodes
+2|6|10|12|17|23|26|52|39|54|55|56|57|62|27|30|36|41|42|67|70|75|78|82|89|100|92|94|99|117|106|119|120|121|122|129|
+程序剩余可执行时间:9730.994000 ms
+TotalEdges:28
+TotalCost:1317
+TotalEdges:29
+TotalCost:1248
+第2种情况下的重复边条数 = 3
+第2种情况下的权值 1317 + 1248 = 2565
+Path[1]:28 nodes
+0|3|8|11|15|22|33|25|27|31|39|54|55|56|57|64|42|69|73|77|81|88|90|92|95|117|104|108|
+Path[2]:29 nodes
+2|6|10|12|17|23|25|28|52|37|41|43|67|70|75|78|82|89|100|92|94|99|117|106|119|120|121|122|129|
+search_route函数运行总时间:106.719000 ms
+searching route time is:106.743000 ms
+write file time is:0.142000 ms
+total running time is 107.284000 ms
+case4
+reading data time is:0.378000 ms
+路径[1]的必经点个数:14 
+0  1  5  7  12  14  15  30  35  43  45  49  51  52  
+路径[2]的必经点个数:14 
+0  3  11  13  17  19  33  37  39  44  46  47  58  52  
+TotalEdges:35
+TotalCost:1027
+TotalEdges:38
+TotalCost:1030
+初始重复边集合:
+27  39  54  55  56  57  43  93  117  106  119  120  121  122  127  94  97  103  108  
+TotalEdges:31
+TotalCost:1739
+path2上的必经边:
+25  90  94  
+TotalEdges:28
+TotalCost:1236
+path1上的必经边:
+27  39  54  55  56  57  117  108  
+不考虑重复边情况时两条路径的最小权值: 2057
+路径1优先时两条路径总权值: 2766
+repeatededgesnum:3
+路径2优先时两条路径总权值: 2266
+repeatededgesnum:8
+first is better
+不包括必经重复边的重复边集合:103  97  119  127  122  121  43  93  120  106  
+第一步处理结束运行时间:22.589000 ms
+最大可循环次数863
+STEP = 1
+TotalEdges:35
+TotalCost:1037
+TotalEdges:38
+TotalCost:1040
+更新的重复边集合:43  93  106  119  120  121  122  127  97  103  
+STEP = 22
+TotalEdges:0
+TotalCost:0
+TotalEdges:36
+TotalCost:1163
+更新的重复边集合:
+edge 103 can be on either path
+edge 97 can be on either path
+egde 119 belong to path2
+edge 127 can be on either path
+egde 122 belong to path2
+egde 121 belong to path2
+edge 43 can be on either path
+edge 93 can be on either path
+egde 120 belong to path2
+egde 106 belong to path2
+egde 108 belong to path2
+egde 117 belong to path2
+egde 57 belong to path2
+egde 56 belong to path2
+egde 55 belong to path2
+egde 54 belong to path2
+egde 39 belong to path2
+egde 27 belong to path2
+egde 94 belong to path1
+结束循环时程序运行时间:62.294000 ms
+TotalEdges:38
+TotalCost:1030
+TotalEdges:28
+TotalCost:1236
+第1种情况下重复边条数= 8
+第1种情况下权值: 1030 + 1236 =2266
+Path[1]:28 nodes
+0|3|8|11|15|22|33|25|27|31|39|54|55|56|57|64|42|69|73|77|79|84|90|92|95|117|104|108|
+Path[2]:38 nodes
+2|6|10|12|17|23|26|52|39|54|55|56|57|62|27|30|36|41|43|67|70|75|78|82|89|100|93|117|106|119|120|121|122|127|94|97|103|108|
+程序剩余可执行时间:9727.324000 ms
+TotalEdges:28
+TotalCost:1317
+TotalEdges:36
+TotalCost:1542
+第2种情况下的重复边条数 = 3
+第2种情况下的权值 1317 + 1542 = 2859
+Path[1]:28 nodes
+0|3|8|11|15|22|33|25|27|31|39|54|55|56|57|64|43|69|73|77|81|88|90|92|95|117|104|108|
+Path[2]:36 nodes
+2|6|10|12|17|23|25|28|52|37|41|42|67|70|75|78|83|90|93|118|116|113|86|110|74|81|89|101|94|98|106|119|120|121|122|129|
+search_route函数运行总时间:120.291000 ms
+searching route time is:120.316000 ms
+write file time is:0.137000 ms
+total running time is 120.831000 ms
+case5
+reading data time is:0.353000 ms
+路径[1]的必经点个数:14 
+0  1  5  7  12  14  15  30  35  43  45  49  51  52  
+路径[2]的必经点个数:15 
+0  3  11  13  17  19  33  37  39  44  46  47  58  62  52  
+TotalEdges:35
+TotalCost:1071
+TotalEdges:38
+TotalCost:1074
+初始重复边集合:
+27  39  54  55  56  57  42  93  117  106  119  120  121  122  127  94  97  103  108  
+TotalEdges:29
+TotalCost:1282
+path2上的必经边:
+25  117  106  119  120  121  122  94  
+TotalEdges:28
+TotalCost:1274
+path1上的必经边:
+27  39  54  55  56  57  117  108  
+不考虑重复边情况时两条路径的最小权值: 2145
+路径1优先时两条路径总权值: 2353
+repeatededgesnum:8
+路径2优先时两条路径总权值: 2348
+repeatededgesnum:8
+second is better
+不包括必经重复边的重复边集合:127  97  103  42  93  
+第一步处理结束运行时间:22.201000 ms
+最大可循环次数878
+STEP = 9
+TotalEdges:39
+TotalCost:1114
+TotalEdges:36
+TotalCost:1088
+更新的重复边集合:42  
+STEP = 109
+TotalEdges:34
+TotalCost:1382
+TotalEdges:36
+TotalCost:1091
+更新的重复边集合:
+edge 127 can be on either path
+egde 97 belong to path1
+egde 103 belong to path1
+edge 42 can be on either path
+egde 93 belong to path1
+egde 108 belong to path2
+egde 57 belong to path2
+egde 56 belong to path2
+egde 55 belong to path2
+egde 54 belong to path2
+egde 39 belong to path2
+egde 27 belong to path2
+egde 94 belong to path1
+egde 122 belong to path1
+egde 121 belong to path1
+egde 120 belong to path1
+egde 119 belong to path1
+egde 106 belong to path1
+egde 117 belong to path1
+结束循环时程序运行时间:60.744000 ms
+TotalEdges:36
+TotalCost:1079
+TotalEdges:28
+TotalCost:1274
+第1种情况下重复边条数= 8
+第1种情况下权值: 1079 + 1274 =2353
+Path[1]:28 nodes
+0|3|8|11|15|22|33|25|27|31|39|54|55|56|57|64|43|69|73|77|79|84|90|92|95|117|104|108|
+Path[2]:36 nodes
+2|6|10|12|17|23|26|52|39|54|55|56|57|62|27|30|36|41|42|67|70|75|78|82|89|100|92|94|99|117|106|119|120|121|122|129|
+程序剩余可执行时间:9726.511000 ms
+TotalEdges:28
+TotalCost:1361
+TotalEdges:29
+TotalCost:1282
+第2种情况下的重复边条数 = 3
+第2种情况下的权值 1361 + 1282 = 2643
+Path[1]:28 nodes
+0|3|8|11|15|22|33|25|27|31|39|54|55|56|57|64|42|69|73|77|81|88|90|92|95|117|104|108|
+Path[2]:29 nodes
+2|6|10|12|17|23|25|28|52|37|41|43|67|70|75|78|82|89|100|92|94|99|117|106|119|120|121|122|129|
+search_route函数运行总时间:110.094000 ms
+searching route time is:110.116000 ms
+write file time is:0.130000 ms
+total running time is 110.599000 ms
+case6
+reading data time is:0.375000 ms
+路径[1]的必经点个数:14 
+0  1  5  7  12  14  15  26  35  43  45  49  51  52  
+路径[2]的必经点个数:15 
+0  3  11  13  17  19  33  37  39  44  46  47  58  62  52  
+TotalEdges:38
+TotalCost:1050
+TotalEdges:38
+TotalCost:1050
+初始重复边集合:
+26  52  39  54  55  56  57  62  27  30  36  41  42  93  117  106  119  120  121  122  127  94  97  103  108  
+TotalEdges:29
+TotalCost:1257
+path2上的必经边:
+52  41  117  106  119  120  121  122  94  
+TotalEdges:31
+TotalCost:1752
+path1上的必经边:
+23  27  117  108  
+不考虑重复边情况时两条路径的最小权值: 2100
+路径1优先时两条路径总权值: 2307
+repeatededgesnum:9
+路径2优先时两条路径总权值: 2802
+repeatededgesnum:4
+second is better
+不包括必经重复边的重复边集合:26  97  39  54  55  56  57  62  127  30  36  103  42  93  
+第一步处理结束运行时间:22.885000 ms
+最大可循环次数852
+STEP = 2
+TotalEdges:36
+TotalCost:1075
+TotalEdges:36
+TotalCost:1075
+更新的重复边集合:39  54  55  56  57  42  
+STEP = 37
+TotalEdges:40
+TotalCost:1369
+TotalEdges:29
+TotalCost:1356
+更新的重复边集合:
+egde 26 belong to path2
+egde 97 belong to path1
+egde 39 belong to path1
+egde 54 belong to path1
+egde 55 belong to path1
+egde 56 belong to path1
+egde 57 belong to path1
+egde 62 belong to path2
+egde 127 belong to path1
+egde 30 belong to path2
+egde 36 belong to path2
+egde 103 belong to path1
+edge 42 can be on either path
+egde 93 belong to path1
+egde 108 belong to path2
+egde 27 belong to path2
+egde 94 belong to path1
+egde 122 belong to path1
+egde 121 belong to path1
+egde 120 belong to path1
+egde 119 belong to path1
+egde 106 belong to path1
+egde 117 belong to path1
+egde 41 belong to path1
+egde 52 belong to path1
+结束循环时程序运行时间:70.181000 ms
+TotalEdges:29
+TotalCost:1345
+TotalEdges:29
+TotalCost:1257
+第1种情况下重复边条数= 4
+第1种情况下权值: 1345 + 1257 =2602
+Path[1]:29 nodes
+0|3|8|11|15|22|33|25|27|32|52|39|54|55|56|57|64|43|69|73|77|79|84|90|92|95|117|104|108|
+Path[2]:29 nodes
+2|6|10|14|21|23|25|27|31|37|41|42|67|70|75|78|82|89|100|92|94|99|117|106|119|120|121|122|129|
+程序剩余可执行时间:9703.527000 ms
+TotalEdges:29
+TotalCost:1345
+TotalEdges:29
+TotalCost:1257
+第2种情况下的重复边条数 = 4
+第2种情况下的权值 1345 + 1257 = 2602
+Path[1]:29 nodes
+0|3|8|11|15|22|33|25|27|32|52|39|54|55|56|57|64|42|69|73|77|81|88|90|92|95|117|104|108|
+Path[2]:29 nodes
+2|6|10|12|17|23|25|28|52|37|41|43|67|70|75|78|82|89|100|92|94|99|117|106|119|120|121|122|129|
+search_route函数运行总时间:134.029000 ms
+searching route time is:134.057000 ms
+write file time is:0.131000 ms
+total running time is 134.563000 ms
+case7
+reading data time is:0.472000 ms
+路径[1]的必经点个数:18 
+0  1  5  7  12  14  15  35  43  45  49  51  67  75  77  81  83  84  
+路径[2]的必经点个数:21 
+0  3  11  13  17  19  33  37  39  44  46  47  62  65  69  71  76  78  79  90  84  
+TotalEdges:50
+TotalCost:1633
+TotalEdges:55
+TotalCost:1640
+初始重复边集合:
+27  30  36  41  43  106  121  122  123  124  94  110  160  184  173  186  187  188  189  194  161  164  170  175  
+TotalEdges:48
+TotalCost:2374
+path2上的必经边:
+25  41  106  121  122  123  124  94  157  161  
+TotalEdges:36
+TotalCost:2256
+path1上的必经边:
+27  41  92  184  175  
+不考虑重复边情况时两条路径的最小权值: 3273
+路径1优先时两条路径总权值: 4007
+repeatededgesnum:10
+路径2优先时两条路径总权值: 3896
+repeatededgesnum:5
+second is better
+不包括必经重复边的重复边集合:186  30  36  173  43  170  164  187  194  189  188  110  160  
+第一步处理结束运行时间:36.514000 ms
+最大可循环次数532
+STEP = 8
+TotalEdges:62
+TotalCost:2024
+TotalEdges:53
+TotalCost:1709
+更新的重复边集合:43  173  186  187  188  189  
+STEP = 25
+TotalEdges:0
+TotalCost:0
+TotalEdges:53
+TotalCost:1845
+更新的重复边集合:
+egde 186 belong to path2
+egde 30 belong to path2
+egde 36 belong to path2
+egde 173 belong to path2
+egde 43 belong to path2
+egde 170 belong to path1
+egde 164 belong to path1
+egde 187 belong to path2
+egde 194 belong to path1
+egde 189 belong to path2
+egde 188 belong to path2
+edge 110 can be on either path
+egde 160 belong to path1
+egde 175 belong to path2
+egde 184 belong to path2
+egde 27 belong to path2
+egde 161 belong to path1
+egde 94 belong to path1
+egde 124 belong to path1
+egde 123 belong to path1
+egde 122 belong to path1
+egde 121 belong to path1
+egde 106 belong to path1
+egde 41 belong to path1
+结束循环时程序运行时间:109.086000 ms
+TotalEdges:53
+TotalCost:1645
+TotalEdges:36
+TotalCost:2353
+第1种情况下重复边条数= 5
+第1种情况下权值: 1645 + 2353 =3998
+Path[1]:36 nodes
+0|3|8|11|15|21|23|25|27|29|35|40|42|69|73|77|79|84|90|92|95|119|104|108|109|136|140|144|146|151|157|159|162|184|171|175|
+Path[2]:53 nodes
+2|6|10|12|17|23|26|52|39|54|55|56|57|62|27|30|36|41|43|67|70|75|78|82|89|100|92|94|98|106|121|122|123|124|131|110|134|137|142|145|149|156|167|159|161|166|184|173|186|187|188|189|196|
+程序剩余可执行时间:9671.768000 ms
+TotalEdges:40
+TotalCost:2260
+TotalEdges:53
+TotalCost:2134
+第2种情况下的重复边条数 = 4
+第2种情况下的权值 2260 + 2134 = 4394
+Path[1]:40 nodes
+0|3|8|11|15|22|33|25|27|31|39|54|55|56|57|64|42|69|73|77|81|88|90|92|95|119|104|108|110|136|140|144|148|155|157|159|162|184|171|175|
+Path[2]:53 nodes
+2|6|10|12|17|23|25|28|52|37|41|43|67|70|75|78|82|89|100|92|94|98|106|121|122|123|124|131|109|134|137|142|145|150|157|160|185|183|180|153|177|141|148|156|168|161|165|173|186|187|188|189|196|
+search_route函数运行总时间:192.290000 ms
+searching route time is:192.320000 ms
+write file time is:0.154000 ms
+total running time is 192.946000 ms
+case8
+reading data time is:0.573000 ms
+路径[1]的必经点个数:18 
+0  1  5  7  12  14  15  35  43  45  49  51  67  75  77  81  83  84  
+路径[2]的必经点个数:22 
+0  3  11  13  17  19  33  37  39  44  46  47  62  65  69  71  76  78  79  90  94  84  
+TotalEdges:50
+TotalCost:1613
+TotalEdges:55
+TotalCost:1620
+初始重复边集合:
+27  30  36  41  43  106  121  122  123  124  94  110  160  184  173  186  187  188  189  194  161  164  170  175  
+TotalEdges:46
+TotalCost:1912
+path2上的必经边:
+25  41  106  121  122  123  124  94  184  173  186  187  188  189  161  
+TotalEdges:36
+TotalCost:2289
+path1上的必经边:
+27  41  92  184  175  
+不考虑重复边情况时两条路径的最小权值: 3233
+路径1优先时两条路径总权值: 3525
+repeatededgesnum:15
+路径2优先时两条路径总权值: 3909
+repeatededgesnum:5
+second is better
+不包括必经重复边的重复边集合:110  30  36  194  43  170  164  160  
+第一步处理结束运行时间:38.886000 ms
+最大可循环次数500
+STEP = 10
+TotalEdges:58
+TotalCost:1674
+TotalEdges:53
+TotalCost:1665
+更新的重复边集合:43  110  
+STEP = 60
+TotalEdges:58
+TotalCost:1900
+TotalEdges:57
+TotalCost:1848
+更新的重复边集合:
+edge 110 can be on either path
+egde 30 belong to path2
+egde 36 belong to path2
+edge 194 can be on either path
+edge 43 can be on either path
+egde 170 belong to path1
+egde 164 belong to path1
+egde 160 belong to path1
+egde 175 belong to path2
+egde 27 belong to path2
+egde 161 belong to path1
+egde 189 belong to path1
+egde 188 belong to path1
+egde 187 belong to path1
+egde 186 belong to path1
+egde 173 belong to path1
+egde 184 belong to path1
+egde 94 belong to path1
+egde 124 belong to path1
+egde 123 belong to path1
+egde 122 belong to path1
+egde 121 belong to path1
+egde 106 belong to path1
+egde 41 belong to path1
+结束循环时程序运行时间:112.045000 ms
+TotalEdges:53
+TotalCost:1625
+TotalEdges:36
+TotalCost:2386
+第1种情况下重复边条数= 5
+第1种情况下权值: 1625 + 2386 =4011
+Path[1]:36 nodes
+0|3|8|11|15|21|23|25|27|29|35|40|42|69|73|77|79|84|90|92|95|119|104|108|109|136|140|144|146|151|157|159|162|184|171|175|
+Path[2]:53 nodes
+2|6|10|12|17|23|26|52|39|54|55|56|57|62|27|30|36|41|43|67|70|75|78|82|89|100|92|94|98|106|121|122|123|124|131|110|134|137|142|145|149|156|167|159|161|166|184|173|186|187|188|189|196|
+程序剩余可执行时间:9664.674000 ms
+TotalEdges:40
+TotalCost:2197
+TotalEdges:53
+TotalCost:2210
+第2种情况下的重复边条数 = 4
+第2种情况下的权值 2197 + 2210 = 4407
+Path[1]:40 nodes
+0|3|8|11|15|22|33|25|27|31|39|54|55|56|57|64|43|69|73|77|81|88|90|92|95|119|104|108|110|136|140|144|148|155|157|159|162|184|171|175|
+Path[2]:53 nodes
+2|6|10|12|17|23|25|28|52|37|41|42|67|70|75|78|82|89|100|92|94|98|106|121|122|123|124|131|109|134|137|142|145|150|157|160|185|183|180|153|177|141|148|156|168|161|165|173|186|187|188|189|196|
+search_route函数运行总时间:205.239000 ms
+searching route time is:205.269000 ms
+write file time is:0.148000 ms
+total running time is 205.990000 ms
+case9
+reading data time is:0.539000 ms
+路径[1]的必经点个数:18 
+0  1  5  7  12  14  15  35  43  45  49  51  67  75  77  81  83  84  
+路径[2]的必经点个数:22 
+0  3  11  13  17  19  33  37  39  44  46  47  58  65  69  71  76  78  79  90  94  84  
+TotalEdges:50
+TotalCost:1585
+TotalEdges:58
+TotalCost:1595
+初始重复边集合:
+27  30  36  41  42  93  119  106  121  122  123  124  129  94  97  103  108  110  160  184  173  186  187  188  189  194  161  164  170  175  
+TotalEdges:49
+TotalCost:2371
+path2上的必经边:
+25  41  90  94  184  173  186  187  188  189  161  
+TotalEdges:36
+TotalCost:2245
+path1上的必经边:
+27  41  119  108  184  175  
+不考虑重复边情况时两条路径的最小权值: 3180
+路径1优先时两条路径总权值: 3956
+repeatededgesnum:11
+路径2优先时两条路径总权值: 3840
+repeatededgesnum:6
+second is better
+不包括必经重复边的重复边集合:194  30  36  110  42  93  164  106  121  122  123  124  129  170  97  103  160  
+第一步处理结束运行时间:38.094000 ms
+最大可循环次数510
+STEP = 3
+TotalEdges:62
+TotalCost:1941
+TotalEdges:54
+TotalCost:1632
+更新的重复边集合:42  106  121  122  123  124  110  
+STEP = 22
+TotalEdges:0
+TotalCost:0
+TotalEdges:54
+TotalCost:1792
+更新的重复边集合:
+egde 194 belong to path1
+egde 30 belong to path2
+egde 36 belong to path2
+egde 110 belong to path2
+edge 42 can be on either path
+egde 93 belong to path1
+egde 164 belong to path1
+egde 106 belong to path2
+egde 121 belong to path2
+egde 122 belong to path2
+egde 123 belong to path2
+egde 124 belong to path2
+egde 129 belong to path1
+egde 170 belong to path1
+egde 97 belong to path1
+egde 103 belong to path1
+egde 160 belong to path1
+egde 175 belong to path2
+egde 108 belong to path2
+egde 119 belong to path2
+egde 27 belong to path2
+egde 161 belong to path1
+egde 189 belong to path1
+egde 188 belong to path1
+egde 187 belong to path1
+egde 186 belong to path1
+egde 173 belong to path1
+egde 184 belong to path1
+egde 94 belong to path1
+egde 41 belong to path1
+结束循环时程序运行时间:116.739000 ms
+TotalEdges:54
+TotalCost:1605
+TotalEdges:36
+TotalCost:2342
+第1种情况下重复边条数= 6
+第1种情况下权值: 1605 + 2342 =3947
+Path[1]:36 nodes
+0|3|8|11|15|21|23|25|27|29|35|40|43|69|73|77|79|84|90|92|95|119|104|108|109|136|140|144|146|151|157|159|162|184|171|175|
+Path[2]:54 nodes
+2|6|10|12|17|23|26|52|39|54|55|56|57|62|27|30|36|41|42|67|70|75|78|82|89|100|92|94|99|119|106|121|122|123|124|131|110|134|137|142|145|149|156|167|159|161|166|184|173|186|187|188|189|196|
+程序剩余可执行时间:9663.292000 ms
+TotalEdges:40
+TotalCost:2238
+TotalEdges:54
+TotalCost:2105
+第2种情况下的重复边条数 = 5
+第2种情况下的权值 2238 + 2105 = 4343
+Path[1]:40 nodes
+0|3|8|11|15|22|33|25|27|31|39|54|55|56|57|64|42|69|73|77|81|88|90|92|95|119|104|108|109|136|140|144|148|155|157|159|162|184|171|175|
+Path[2]:54 nodes
+2|6|10|12|17|23|25|28|52|37|41|43|67|70|75|78|83|90|93|120|118|115|86|112|74|81|89|101|94|98|106|121|122|123|124|131|110|134|137|142|145|149|156|167|159|161|166|184|173|186|187|188|189|196|
+search_route函数运行总时间:209.279000 ms
+searching route time is:209.308000 ms
+write file time is:0.131000 ms
+total running time is 209.978000 ms
+case10
+reading data time is:0.540000 ms
+路径[1]的必经点个数:19 
+0  1  5  7  12  14  15  30  35  43  45  49  51  67  75  77  81  83  84  
+路径[2]的必经点个数:22 
+0  3  11  13  17  19  33  37  39  44  46  47  58  65  69  71  76  78  79  90  94  84  
+TotalEdges:54
+TotalCost:1637
+TotalEdges:58
+TotalCost:1643
+初始重复边集合:
+27  39  54  55  56  57  42  93  119  106  121  122  123  124  129  94  97  103  108  109  160  184  173  186  187  188  189  194  161  164  170  175  
+TotalEdges:49
+TotalCost:2411
+path2上的必经边:
+25  90  94  184  173  186  187  188  189  161  
+TotalEdges:40
+TotalCost:2091
+path1上的必经边:
+27  39  54  55  56  57  119  108  184  175  
+不考虑重复边情况时两条路径的最小权值: 3280
+路径1优先时两条路径总权值: 4048
+repeatededgesnum:10
+路径2优先时两条路径总权值: 3734
+repeatededgesnum:10
+second is better
+不包括必经重复边的重复边集合:194  164  170  160  109  97  42  93  103  106  121  122  123  124  129  
+第一步处理结束运行时间:38.119000 ms
+最大可循环次数510
+STEP = 7
+TotalEdges:0
+TotalCost:0
+TotalEdges:54
+TotalCost:1702
+更新的重复边集合:
+edge 194 can be on either path
+edge 164 can be on either path
+edge 170 can be on either path
+edge 160 can be on either path
+egde 109 belong to path2
+edge 97 can be on either path
+egde 42 belong to path2
+edge 93 can be on either path
+edge 103 can be on either path
+egde 106 belong to path2
+egde 121 belong to path2
+egde 122 belong to path2
+egde 123 belong to path2
+egde 124 belong to path2
+edge 129 can be on either path
+egde 175 belong to path2
+egde 108 belong to path2
+egde 119 belong to path2
+egde 57 belong to path2
+egde 56 belong to path2
+egde 55 belong to path2
+egde 54 belong to path2
+egde 39 belong to path2
+egde 27 belong to path2
+egde 161 belong to path1
+egde 189 belong to path1
+egde 188 belong to path1
+egde 187 belong to path1
+egde 186 belong to path1
+egde 173 belong to path1
+egde 184 belong to path1
+egde 94 belong to path1
+结束循环时程序运行时间:71.767000 ms
+TotalEdges:63
+TotalCost:1946
+TotalEdges:40
+TotalCost:2091
+第1种情况下重复边条数= 9
+第1种情况下权值: 1946 + 2091 =4037
+Path[1]:40 nodes
+0|3|8|11|15|22|33|25|27|31|39|54|55|56|57|64|43|69|73|77|79|84|90|92|95|119|104|108|110|136|140|144|146|151|157|159|162|184|171|175|
+Path[2]:63 nodes
+2|6|10|12|17|23|26|52|39|54|55|56|57|62|27|30|36|41|42|67|70|75|78|82|89|100|93|119|106|121|122|123|124|129|94|97|103|108|109|134|137|142|145|150|157|160|185|183|180|153|177|141|148|156|168|161|165|173|186|187|188|189|196|
+程序剩余可执行时间:9703.732000 ms
+TotalEdges:40
+TotalCost:2289
+TotalEdges:54
+TotalCost:2142
+第2种情况下的重复边条数 = 5
+第2种情况下的权值 2289 + 2142 = 4431
+Path[1]:40 nodes
+0|3|8|11|15|22|33|25|27|31|39|54|55|56|57|64|43|69|73|77|81|88|90|92|95|119|104|108|110|136|140|144|148|155|157|159|162|184|171|175|
+Path[2]:54 nodes
+2|6|10|12|17|23|25|28|52|37|41|42|67|70|75|78|83|90|93|120|118|115|86|112|74|81|89|101|94|98|106|121|122|123|124|131|109|134|137|142|145|149|156|167|159|161|166|184|173|186|187|188|189|196|
+search_route函数运行总时间:168.347000 ms
+searching route time is:168.368000 ms
+write file time is:0.154000 ms
+total running time is 169.062000 ms
+case11
+reading data time is:0.704000 ms
+路径[1]的必经点个数:23 
+0  1  5  7  12  14  15  35  43  45  49  51  67  75  77  81  83  99  107  109  113  115  116  
+路径[2]的必经点个数:29 
+0  3  11  13  17  19  33  37  39  44  46  47  62  65  69  71  76  78  79  90  97  101  103  108  110  111  122  126  116  
+TotalEdges:69
+TotalCost:2207
+TotalEdges:75
+TotalCost:2217
+初始重复边集合:
+27  30  36  41  42  106  121  122  123  124  94  109  160  186  173  188  189  190  191  196  161  164  170  175  176  227  251  240  253  254  255  256  261  228  231  237  242  
+TotalEdges:66
+TotalCost:2992
+path2上的必经边:
+25  41  106  121  122  123  124  94  157  161  251  240  253  254  255  256  228  
+TotalEdges:48
+TotalCost:3057
+path1上的必经边:
+27  41  92  186  175  251  242  
+不考虑重复边情况时两条路径的最小权值: 4424
+路径1优先时两条路径总权值: 5199
+repeatededgesnum:17
+路径2优先时两条路径总权值: 5274
+repeatededgesnum:7
+second is better
+不包括必经重复边的重复边集合:164  30  36  191  42  237  231  170  261  196  176  109  160  227  173  188  189  190  
+第一步处理结束运行时间:52.530000 ms
+最大可循环次数369
+STEP = 9
+TotalEdges:0
+TotalCost:0
+TotalEdges:71
+TotalCost:2317
+更新的重复边集合:
+edge 164 can be on either path
+egde 30 belong to path2
+egde 36 belong to path2
+egde 191 belong to path2
+egde 42 belong to path2
+edge 237 can be on either path
+edge 231 can be on either path
+edge 170 can be on either path
+edge 261 can be on either path
+edge 196 can be on either path
+egde 176 belong to path2
+egde 109 belong to path2
+edge 160 can be on either path
+edge 227 can be on either path
+egde 173 belong to path2
+egde 188 belong to path2
+egde 189 belong to path2
+egde 190 belong to path2
+egde 242 belong to path2
+egde 175 belong to path2
+egde 186 belong to path2
+egde 27 belong to path2
+egde 228 belong to path1
+egde 256 belong to path1
+egde 255 belong to path1
+egde 254 belong to path1
+egde 253 belong to path1
+egde 240 belong to path1
+egde 251 belong to path1
+egde 161 belong to path1
+egde 94 belong to path1
+egde 124 belong to path1
+egde 123 belong to path1
+egde 122 belong to path1
+egde 121 belong to path1
+egde 106 belong to path1
+egde 41 belong to path1
+结束循环时程序运行时间:102.681000 ms
+TotalEdges:80
+TotalCost:2520
+TotalEdges:48
+TotalCost:3154
+第1种情况下重复边条数= 6
+第1种情况下权值: 2520 + 3154 =5674
+Path[1]:48 nodes
+0|3|8|11|15|21|23|25|27|29|35|40|43|69|73|77|79|84|90|92|95|119|104|108|110|136|140|144|146|151|157|159|162|186|171|175|177|203|207|211|213|218|224|226|229|251|238|242|
+Path[2]:80 nodes
+2|6|10|12|17|23|26|52|39|54|55|56|57|62|27|30|36|41|42|67|70|75|78|82|89|100|92|94|98|106|121|122|123|124|131|109|134|137|142|145|149|156|167|160|186|173|188|189|190|191|196|161|164|170|175|176|201|204|209|212|217|224|227|252|250|247|220|244|208|215|223|235|228|232|240|253|254|255|256|263|
+程序剩余可执行时间:9660.144000 ms
+TotalEdges:52
+TotalCost:3160
+TotalEdges:71
+TotalCost:2716
+第2种情况下的重复边条数 = 6
+第2种情况下的权值 3160 + 2716 = 5876
+Path[1]:52 nodes
+0|3|8|11|15|22|33|25|27|31|39|54|55|56|57|64|43|69|73|77|81|88|90|92|95|119|104|108|110|136|140|144|148|155|157|159|162|186|171|175|177|203|207|211|215|222|224|226|229|251|238|242|
+Path[2]:71 nodes
+2|6|10|12|17|23|25|28|52|37|41|42|67|70|75|78|82|89|100|92|94|98|106|121|122|123|124|131|109|134|137|142|145|150|157|160|187|185|182|153|179|141|148|156|168|161|165|173|188|189|190|191|198|176|201|204|209|212|216|223|234|226|228|233|251|240|253|254|255|256|263|
+search_route函数运行总时间:235.050000 ms
+searching route time is:235.079000 ms
+write file time is:0.161000 ms
+total running time is 235.944000 ms
+case12
+Please input valid topo file.
+case13
+Please input valid topo file.
+case14
+Please input valid topo file.
+case15
+Please input valid topo file.
+case16
+Please input valid topo file.
+case17
+Please input valid topo file.
+case18
+Please input valid topo file.
+case19
+Please input valid topo file.
+case20
+Please input valid topo file.

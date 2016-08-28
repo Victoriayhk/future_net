@@ -1,0 +1,201 @@
+case-semi-yi/nanhang_case/1 : start
+NA :1
+program end time = 9298ms
+
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+ 2415	 2353	    0	 4768
+
+
+
+case-semi-yi/nanhang_case/10 : start
+program end time = 9308ms
+
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+ 2320	 2314	    0	 4634
+
+
+
+case-semi-yi/nanhang_case/11 : start
+wanted tour is find in ascent!
+NA :0
+program end time = 9048ms
+
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+ 2324	 2254	    0	 4578
+
+
+
+case-semi-yi/nanhang_case/12 : start
+wanted tour is find in ascent!
+program end time = 9335ms
+
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+ 2354	 2420	    0	 4774
+
+
+
+case-semi-yi/nanhang_case/13 : start
+program end time = 9199ms
+
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+ 2213	 2240	    0	 4453
+
+
+
+case-semi-yi/nanhang_case/14 : start
+program end time = 9354ms
+
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+ 2108	 2339	    0	 4447
+
+
+
+case-semi-yi/nanhang_case/15 : start
+program end time = 9279ms
+
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+ 2382	 2174	    0	 4556
+
+
+
+case-semi-yi/nanhang_case/16 : start
+wanted tour is find in ascent!
+wanted tour is find in ascent!
+NA :0
+program end time = 9027ms
+
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+ 2385	 2318	    0	 4703
+
+
+
+case-semi-yi/nanhang_case/17 : start
+program end time = 9126ms
+
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+ 2205	 2239	    0	 4444
+
+
+
+case-semi-yi/nanhang_case/18 : start
+wanted tour is find in ascent!
+program end time = 9292ms
+
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+ 2236	 2301	    0	 4537
+
+
+
+case-semi-yi/nanhang_case/19 : start
+NA :1
+program end time = 9213ms
+
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+ 2273	 2342	    0	 4615
+
+
+
+case-semi-yi/nanhang_case/2 : start
+wanted tour is find in ascent!
+NA :0
+program end time = 9143ms
+
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+ 2272	 2351	    0	 4623
+
+
+
+case-semi-yi/nanhang_case/20 : start
+NA :1
+program end time = 9258ms
+
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+ 2376	 2344	    0	 4720
+
+
+
+case-semi-yi/nanhang_case/3 : start
+NA :0
+program end time = 9066ms
+
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+ 2471	 2420	    0	 4891
+
+
+
+case-semi-yi/nanhang_case/4 : start
+wanted tour is find in ascent!
+NA :0
+program end time = 9019ms
+
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+ 2304	 2296	    0	 4600
+
+
+
+case-semi-yi/nanhang_case/5 : start
+NA :0
+program end time = 9009ms
+
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+ 2185	 2347	    0	 4532
+
+
+
+case-semi-yi/nanhang_case/6 : start
+NA :1
+program end time = 9066ms
+
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+ 2320	 2305	    0	 4625
+
+
+
+case-semi-yi/nanhang_case/7 : start
+wanted tour is find in ascent!
+wanted tour is find in ascent!
+wanted tour is find in ascent!
+program end time = 9279ms
+
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+ 2382	 2285	    0	 4667
+
+
+
+case-semi-yi/nanhang_case/8 : start
+program end time = 9037ms
+
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+ 2226	 2391	    0	 4617
+
+
+
+case-semi-yi/nanhang_case/9 : start
+NA :0
+program end time = 9200ms
+
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+ 2179	 2252	    0	 4431
+
+
+

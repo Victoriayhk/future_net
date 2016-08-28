@@ -1,0 +1,88 @@
+case-semi-yi/80/case12 : start
+search_route函数运行总时间:3401.292000 ms
+totalcost:3309
+repeatededgesnum:0
+all used time 3450ms
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+ 1660	 1649	    0	 3309
+
+
+
+case-semi-yi/80/case121 : start
+search_route函数运行总时间:2017.548000 ms
+totalcost:3428
+repeatededgesnum:0
+all used time 2067ms
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+ 1711	 1717	    0	 3428
+
+
+
+case-semi-yi/80/case251 : start
+search_route函数运行总时间:1708.146000 ms
+totalcost:3526
+repeatededgesnum:0
+all used time 1753ms
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+ 1647	 1879	    0	 3526
+
+
+
+case-semi-yi/80/case256 : start
+search_route函数运行总时间:2076.216000 ms
+totalcost:3368
+repeatededgesnum:0
+all used time 2124ms
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+ 1691	 1677	    0	 3368
+
+
+
+case-semi-yi/80/case38 : start
+search_route函数运行总时间:2664.363000 ms
+totalcost:3405
+repeatededgesnum:0
+all used time 2711ms
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+ 1758	 1647	    0	 3405
+
+
+
+case-semi-yi/80/case71 : start
+search_route函数运行总时间:3777.746000 ms
+totalcost:3348
+repeatededgesnum:0
+all used time 3826ms
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+ 1655	 1693	    0	 3348
+
+
+
+case-semi-yi/80/case75 : start
+search_route函数运行总时间:1980.790000 ms
+totalcost:3656
+repeatededgesnum:0
+all used time 2029ms
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+ 1866	 1790	    0	 3656
+
+
+
+case-semi-yi/80/case87 : start
+search_route函数运行总时间:2065.550000 ms
+totalcost:3310
+repeatededgesnum:0
+all used time 2113ms
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+ 1626	 1684	    0	 3310
+
+
+
