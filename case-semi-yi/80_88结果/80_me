@@ -1,0 +1,143 @@
+case-semi-yi/80/case12 : start
+routeCn = 0,iteration = 0
+used smart punish!!!
+(Road0.singleRouteTime + Road1.singleRouteTime)/1000 = 1080
+large case
+wanted tour is find in ascent!
+routeCn = 0,iteration = 2
+routeCn = 0,iteration = 3
+wanted tour is find in ascent!
+program end time = 9069ms
+
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+ 1634	 1676	    0	 3310
+
+
+
+case-semi-yi/80/case121 : start
+routeCn = 0,iteration = 0
+used smart punish!!!
+(Road0.singleRouteTime + Road1.singleRouteTime)/1000 = 647
+large case
+routeCn = 0,iteration = 2
+routeCn = 0,iteration = 3
+wanted tour is find in ascent!
+program end time = 7497ms
+
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+ 1711	 1717	    0	 3428
+
+
+
+case-semi-yi/80/case251 : start
+wanted tour is find in ascent!
+wanted tour is find in ascent!
+routeCn = 0,iteration = 0
+used smart punish!!!
+(Road0.singleRouteTime + Road1.singleRouteTime)/1000 = 592
+large case
+wanted tour is find in ascent!
+wanted tour is find in ascent!
+wanted tour is find in ascent!
+wanted tour is find in ascent!
+program end time = 6339ms
+
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+ 1647	 1879	    0	 3526
+
+
+
+case-semi-yi/80/case256 : start
+wanted tour is find in ascent!
+routeCn = 0,iteration = 0
+used smart punish!!!
+(Road0.singleRouteTime + Road1.singleRouteTime)/1000 = 1013
+large case
+wanted tour is find in ascent!
+program end time = 7232ms
+
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+ 1687	 1686	    0	 3373
+
+
+
+case-semi-yi/80/case38 : start
+routeCn = 0,iteration = 0
+used smart punish!!!
+(Road0.singleRouteTime + Road1.singleRouteTime)/1000 = 639
+large case
+routeCn = 0,iteration = 2
+routeCn = 0,iteration = 3
+wanted tour is find in ascent!
+wanted tour is find in ascent!
+NA :0
+program end time = 9050ms
+
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+ 1770	 1633	    0	 3403
+
+
+
+case-semi-yi/80/case71 : start
+routeCn = 0,iteration = 0
+used smart punish!!!
+(Road0.singleRouteTime + Road1.singleRouteTime)/1000 = 1899
+large case
+wanted tour is find in ascent!
+routeCn = 1,iteration = 1
+wanted tour is find in ascent!
+wanted tour is find in ascent!
+wanted tour is find in ascent!
+NA :1
+program end time = 9038ms
+
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+ 1644	 1701	    0	 3345
+
+
+
+case-semi-yi/80/case75 : start
+routeCn = 0,iteration = 0
+used smart punish!!!
+(Road0.singleRouteTime + Road1.singleRouteTime)/1000 = 806
+large case
+routeCn = 0,iteration = 2
+routeCn = 0,iteration = 3
+wanted tour is find in ascent!
+routeCn = 1,iteration = 2
+wanted tour is find in ascent!
+wanted tour is find in ascent!
+wanted tour is find in ascent!
+NA :0
+program end time = 9101ms
+
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+ 1856	 1798	    0	 3654
+
+
+
+case-semi-yi/80/case87 : start
+routeCn = 0,iteration = 0
+used smart punish!!!
+(Road0.singleRouteTime + Road1.singleRouteTime)/1000 = 694
+large case
+wanted tour is find in ascent!
+wanted tour is find in ascent!
+routeCn = 0,iteration = 2
+routeCn = 0,iteration = 3
+wanted tour is find in ascent!
+program end time = 9034ms
+
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+ 1626	 1684	    0	 3310
+
+
+

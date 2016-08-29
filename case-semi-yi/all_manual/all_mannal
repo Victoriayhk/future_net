@@ -1,0 +1,75 @@
+case-semi-yi/all_manual/case64-11&12-e(132)-combine(1,2) : start
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+ 1269  1251     2  2520
+
+
+
+case-semi-yi/all_manual/case64-11&12-e(132)-combine(1,3) : start
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+ 1427  1338     3  2765
+
+
+
+case-semi-yi/all_manual/case64-11&13-e(132)-combine(1,4) : start
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+ 1240  1524     2  2764
+
+
+
+case-semi-yi/all_manual/case64-12&12-e(132)-combine(2,3) : start
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+ 1236  1524     2  2760
+
+
+
+case-semi-yi/all_manual/case64-12&13-e(132)-combine(2,4) : start
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+ 1262  1580     2  2842
+
+
+
+case-semi-yi/all_manual/case64-12&13-e(132)-combine(3,4) : start
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+ 1555  1544     2  3099
+
+
+
+case-semi-yi/all_manual/case96-16&19-e(199)-combine(1,2,3) : start
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+ 2256  1943     4  4199
+
+
+
+case-semi-yi/all_manual/case96-16&20-e(199)-combine(1,2,4) : start
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+ 1999  2210     3  4209
+
+
+
+case-semi-yi/all_manual/case96-16&20-e(199)-combine(1,3,4) : start
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+ 1780  2669     4  4449
+
+
+
+case-semi-yi/all_manual/case96-17&20-e(199)-combine(2,3,4) : start
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+ 2091  2440     3  4531
+
+
+
+case-semi-yi/all_manual/case128-21&27-e(266)-combine(1,2,3,4) : start
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+ 3057  2823     5  5880
+

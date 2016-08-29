@@ -1,0 +1,398 @@
+case-semi-yi/all_ppt/case118-12&12-e(156)-combine(1,2,3,4,5) : start
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+  493   395     0   888
+
+
+
+case-semi-yi/all_ppt/case26-4&4-e(36)-combine(1,2) : start
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+  135    67     0   202
+
+
+
+case-semi-yi/all_ppt/case26-4&4-e(37)-combine(1,3) : start
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+  125    46     0   171
+
+
+
+case-semi-yi/all_ppt/case26-4&4-e(37)-combine(1,4) : start
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+  107    84     0   191
+
+
+
+case-semi-yi/all_ppt/case26-4&4-e(37)-combine(2,3) : start
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+  105    52     0   157
+
+
+
+case-semi-yi/all_ppt/case26-4&4-e(37)-combine(2,4) : start
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+  102    42     0   144
+
+
+
+case-semi-yi/all_ppt/case26-4&4-e(38)-combine(3,4) : start
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+   59    39     0    98
+
+
+
+case-semi-yi/all_ppt/case26-6&4-e(38)-combine(1,6) : start
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+   70    35     0   105
+
+
+
+case-semi-yi/all_ppt/case26-6&4-e(38)-combine(2,6) : start
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+  138    57     0   195
+
+
+
+case-semi-yi/all_ppt/case26-6&4-e(39)-combine(3,6) : start
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+   83    64     0   147
+
+
+
+case-semi-yi/all_ppt/case26-6&4-e(39)-combine(4,6) : start
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+  136    45     0   181
+
+
+
+case-semi-yi/all_ppt/case39-8&4-e(56)-combine(1,2,3) : start
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+  155    59     0   214
+
+
+
+case-semi-yi/all_ppt/case39-8&4-e(56)-combine(1,2,4) : start
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+  220    74     0   294
+
+
+
+case-semi-yi/all_ppt/case39-8&4-e(57)-combine(1,3,4) : start
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+  233   104     0   337
+
+
+
+case-semi-yi/all_ppt/case39-8&4-e(57)-combine(2,3,4) : start
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+  224    94     0   318
+
+
+
+case-semi-yi/all_ppt/case39-8&6-e(57)-combine(1,2,6) : start
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+  176    89     0   265
+
+
+
+case-semi-yi/all_ppt/case39-8&6-e(58)-combine(1,3,6) : start
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+  235   134     0   369
+
+
+
+case-semi-yi/all_ppt/case39-8&6-e(58)-combine(1,4,6) : start
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+  237   132     0   369
+
+
+
+case-semi-yi/all_ppt/case39-8&6-e(58)-combine(2,3,6) : start
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+  242    73     0   315
+
+
+
+case-semi-yi/all_ppt/case39-8&6-e(58)-combine(2,4,6) : start
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+  216    95     0   311
+
+
+
+case-semi-yi/all_ppt/case39-8&6-e(59)-combine(3,4,6) : start
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+  150    75     0   225
+
+
+
+case-semi-yi/all_ppt/case46-4&4-e(57)-combine(1,5) : start
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+  139    90     0   229
+
+
+
+case-semi-yi/all_ppt/case46-4&4-e(57)-combine(2,5) : start
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+   95    70     0   165
+
+
+
+case-semi-yi/all_ppt/case46-4&4-e(58)-combine(3,5) : start
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+  114   105     0   219
+
+
+
+case-semi-yi/all_ppt/case46-4&4-e(58)-combine(4,5) : start
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+  128    82     0   210
+
+
+
+case-semi-yi/all_ppt/case46-6&4-e(59)-combine(5,6) : start
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+   93    66     0   159
+
+
+
+case-semi-yi/all_ppt/case52-10&8-e(77)-combine(1,2,3,6) : start
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+  283   205     0   488
+
+
+
+case-semi-yi/all_ppt/case52-10&8-e(77)-combine(1,2,4,6) : start
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+  302   229     0   531
+
+
+
+case-semi-yi/all_ppt/case52-10&8-e(78)-combine(1,3,4,6) : start
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+  343   146     0   489
+
+
+
+case-semi-yi/all_ppt/case52-10&8-e(78)-combine(2,3,4,6) : start
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+  339   138     0   477
+
+
+
+case-semi-yi/all_ppt/case52-8&8-e(76)-combine(1,2,3,4) : start
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+  297   201     0   498
+
+
+
+case-semi-yi/all_ppt/case59-8&4-e(76)-combine(1,2,5) : start
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+  184    63     0   247
+
+
+
+case-semi-yi/all_ppt/case59-8&4-e(77)-combine(1,3,5) : start
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+  194    88     0   282
+
+
+
+case-semi-yi/all_ppt/case59-8&4-e(77)-combine(1,4,5) : start
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+  212   108     0   320
+
+
+
+case-semi-yi/all_ppt/case59-8&4-e(77)-combine(2,3,5) : start
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+  233    58     0   291
+
+
+
+case-semi-yi/all_ppt/case59-8&4-e(77)-combine(2,4,5) : start
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+  233    93     0   326
+
+
+
+case-semi-yi/all_ppt/case59-8&4-e(78)-combine(3,4,5) : start
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+  227   152     0   379
+
+
+
+case-semi-yi/all_ppt/case59-8&6-e(78)-combine(1,5,6) : start
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+  212   121     0   333
+
+
+
+case-semi-yi/all_ppt/case59-8&6-e(78)-combine(2,5,6) : start
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+  233   146     0   379
+
+
+
+case-semi-yi/all_ppt/case59-8&6-e(79)-combine(3,5,6) : start
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+  161   100     0   261
+
+
+
+case-semi-yi/all_ppt/case59-8&6-e(79)-combine(4,5,6) : start
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+  216   135     0   351
+
+
+
+case-semi-yi/all_ppt/case72-10&8-e(97)-combine(1,2,5,6) : start
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+  319   197     0   516
+
+
+
+case-semi-yi/all_ppt/case72-10&8-e(98)-combine(1,3,5,6) : start
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+  338   154     0   492
+
+
+
+case-semi-yi/all_ppt/case72-10&8-e(98)-combine(1,4,5,6) : start
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+  172   122     0   294
+
+
+
+case-semi-yi/all_ppt/case72-10&8-e(98)-combine(2,3,5,6) : start
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+  296   111     0   407
+
+
+
+case-semi-yi/all_ppt/case72-10&8-e(98)-combine(2,4,5,6) : start
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+  298   232     0   530
+
+
+
+case-semi-yi/all_ppt/case72-10&8-e(99)-combine(3,4,5,6) : start
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+  257   129     0   386
+
+
+
+case-semi-yi/all_ppt/case72-8&8-e(96)-combine(1,2,3,5) : start
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+  241   203     0   444
+
+
+
+case-semi-yi/all_ppt/case72-8&8-e(96)-combine(1,2,4,5) : start
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+  266   223     0   489
+
+
+
+case-semi-yi/all_ppt/case72-8&8-e(97)-combine(1,3,4,5) : start
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+  314   154     0   468
+
+
+
+case-semi-yi/all_ppt/case72-8&8-e(97)-combine(2,3,4,5) : start
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+  317   149     0   466
+
+
+
+case-semi-yi/all_ppt/case78-14&14-e(118)-combine(1,2,3,4,6) : start
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+  430   321     0   751
+
+
+
+case-semi-yi/all_ppt/case98-12&14-e(137)-combine(1,2,3,4,5,6) : start
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+  455   197     0   652
+
+
+
+case-semi-yi/all_ppt/case98-14&14-e(138)-combine(1,2,3,5,6) : start
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+  495   305     0   800
+
+
+
+case-semi-yi/all_ppt/case98-14&14-e(138)-combine(1,2,4,5,6) : start
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+  531   329     0   860
+
+
+
+case-semi-yi/all_ppt/case98-14&14-e(139)-combine(1,3,4,5,6) : start
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+  416   207     0   623
+
+
+
+case-semi-yi/all_ppt/case98-14&14-e(139)-combine(2,3,4,5,6) : start
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+  446   229     0   675
+
+

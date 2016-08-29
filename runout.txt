@@ -1,0 +1,497 @@
+start :case00
+normal case
+program end time =   35ms
+
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+    3	    3	    0	    6
+
+
+
+ 
+start :case25-self
+used smart punish!!!
+small case
+program end time =   34ms
+
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+   33	  476	    0	  509
+
+
+
+ 
+start :case-10by100
+used smart punish!!!
+small case
+program end time =    8ms
+
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+   28	   28	    0	   56
+
+
+
+ 
+start :from_chen/case0
+used smart punish!!!
+small case
+program end time =   96ms
+
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+ 1074	  678	    0	 1752
+
+
+
+ 
+start :case0
+used smart punish!!!
+small case
+program end time =  250ms
+
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+  319	  437	    0	  756
+
+
+
+ 
+start :Spirits/case4
+used smart punish!!!
+small case
+program end time =  847ms
+
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+  762	  927	    0	 1689
+
+
+
+ 
+start :666_4700e_391948409
+used smart punish!!!
+small case
+program end time =  176ms
+
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+  752	  828	    0	 1580
+
+
+
+ 
+start :from_chen/case1
+normal case
+program end time =  149ms
+
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+ 1515	 1009	    4	 2524
+
+
+
+ 
+start :from_chen/case32
+used smart punish!!!
+small case
+program end time =  253ms
+
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+   25	   44	    0	   69
+
+
+
+ 
+start :other/hppppp
+used smart punish!!!
+small case
+program end time = 1184ms
+
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+ 1194	  345	    0	 1539
+
+
+
+ 
+start :_case192
+normal case
+program end time =  420ms
+
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+ 4533	 4498	    6	 9031
+
+
+
+ 
+start :NEST/re0
+used smart punish!!!
+small case
+program end time =  628ms
+
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+10323	10323	    0	20646
+
+
+
+ 
+start :case100_391947660
+normal case
+program end time =  517ms
+
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+24683	 2171	   50	26854
+
+
+
+ 
+start :_case294
+used smart punish!!!
+small case
+program end time = 1081ms
+
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+   95	 2330	    0	 2425
+
+
+
+ 
+start :Spirits/case2
+used smart punish!!!
+large case
+program end time = 2557ms
+
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+37941	31925	    0	69866
+
+
+
+ 
+start :34256e_391948862_41
+used smart punish!!!
+small case
+program end time =  959ms
+
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+37941	31925	    0	69866
+
+
+
+ 
+start :west_north/self1
+used smart punish!!!
+small case
+program end time = 1303ms
+
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+ 1101	  728	    0	 1829
+
+
+
+ 
+start :west_north/self2
+used smart punish!!!
+small case
+program end time = 1382ms
+
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+ 1885	 2066	    0	 3951
+
+
+
+ 
+start :NEST/reX
+normal case
+program end time = 1344ms
+
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+10003	15197	    2	25200
+
+
+
+ 
+start :from_chen/case2
+normal case
+program end time = 1813ms
+
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+    3	 6299	    2	 6302
+
+
+
+ 
+start :other/zz
+used smart punish!!!
+small case
+program end time = 1207ms
+
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+ 8971	 8436	    0	17407
+
+
+
+ 
+start :Manual_case/case1
+normal case
+program end time = 1652ms
+
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+  804	  812	    1	 1616
+
+
+
+ 
+start :Manual_case/case2
+normal case
+program end time =  101ms
+
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+42316	  704	    1	43020
+
+
+
+ 
+start :Manual_case/case3
+normal case
+program end time =  203ms
+
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+42622	  704	    1	43326
+
+
+
+ 
+start :Manual_case/case4
+normal case
+program end time =  132ms
+
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+42622	  704	    1	43326
+
+
+
+ 
+start :from_tian/case1pro
+normal case
+program end time = 7332ms
+
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+11993	 9930	    0	21923
+
+
+
+ 
+start :from_tian/case1
+normal case
+program end time = 6165ms
+
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+11754	 9468	    0	21222
+
+
+
+ 
+start :DZ/up3
+normal case
+program end time = 9223ms
+
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+ 2684	 2719	    0	 5403
+
+
+
+ 
+start :from_chen/case4000
+used smart punish!!!
+large case
+program end time = 9272ms
+
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+ 2342	 2353	    0	 4695
+
+
+
+ 
+start :case800_391947651
+used smart punish!!!
+large case
+program end time = 9014ms
+
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+ 7532	 8150	    0	15682
+
+
+
+ 
+start :from_tian/case2
+normal case
+program end time = 9683ms
+
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+48384	41444	   65	89828
+
+
+
+ 
+start :from_tian/case2pro
+normal case
+program end time = 9440ms
+
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+46604	41446	   66	88050
+
+
+
+ 
+start :case_391945014
+normal case
+program end time = 9265ms
+
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+46754	41446	   59	88200
+
+
+
+ 
+start :from_chen/case3
+super complex case
+program end time = 9063ms
+
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+11205	 6612	   14	17817
+
+
+
+ 
+start :from_chen/case4
+super complex case
+program end time = 9045ms
+
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+ 6644	11403	   14	18047
+
+
+
+ 
+start :mycase_sprits
+used smart punish!!!
+small case
+program end time =  176ms
+
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+  762	  927	    0	 1689
+
+
+
+ 
+start :mycase/case0
+used smart punish!!!
+large case
+program end time = 9056ms
+
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+ 2419	 2331	    0	 4750
+
+
+
+ 
+start :mycase/case1
+used smart punish!!!
+large case
+program end time = 9182ms
+
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+ 2480	 2410	    0	 4890
+
+
+
+ 
+start :mycase/case2
+used smart punish!!!
+large case
+program end time = 9159ms
+
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+ 2780	 3225	    0	 6005
+
+
+
+ 
+start :mycase/case3
+used smart punish!!!
+large case
+program end time = 9051ms
+
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+ 6261	 5423	    0	11684
+
+
+
+ 
+start :mycase/case4
+used smart punish!!!
+large case
+program end time = 9165ms
+
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+ 2679	 3051	    0	 5730
+
+
+
+ 
+start :mycase/case5
+used smart punish!!!
+large case
+program end time = 9332ms
+
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+ 2412	 2390	    0	 4802
+
+
+
+ 
+start :mycase/case6
+normal case
+program end time = 9036ms
+
+********************** exam result ***********************
+  Road0   Road1  repeat  sumCost
+ 8070	 7529	    0	15599
+
+
+
+ 

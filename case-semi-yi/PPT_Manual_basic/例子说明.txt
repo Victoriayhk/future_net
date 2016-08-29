@@ -1,0 +1,9 @@
+ppt-case
+--------
+
+case1~4: 为ppt上的4个例子的原始模式, tour1就是ppt上的tour, tour2没有必经点, 直接0到5
+case5: 将case4中权值不是1的边都扩展成了1(本质上和case4一样)
+case6: 在case4的基础上加了两条边, 使7,9称为tour2的必经点
+
+manual-case
+论坛上的4个手工例子, 截掉了一条1000+结点的长边

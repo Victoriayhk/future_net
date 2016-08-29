@@ -1,0 +1,79 @@
+case1
+reading data time is:0.409000 ms
+totalcost:2619
+repeatededgesnum:2
+searching route time is:71.661000 ms
+write file time is:0.140000 ms
+total running time is 72.210000 ms
+
+case2
+reading data time is:0.499000 ms
+totalcost:2861
+repeatededgesnum:3
+searching route time is:102.526000 ms
+write file time is:0.142000 ms
+total running time is 103.167000 ms
+
+case3
+reading data time is:0.398000 ms
+totalcost:2565
+repeatededgesnum:3
+searching route time is:94.546000 ms
+write file time is:0.138000 ms
+total running time is 95.082000 ms
+case4
+reading data time is:0.394000 ms
+totalcost:2766
+repeatededgesnum:3
+searching route time is:116.649000 ms
+write file time is:0.139000 ms
+total running time is 117.182000 ms
+case5
+reading data time is:0.400000 ms
+totalcost:2643
+repeatededgesnum:3
+searching route time is:83.804000 ms
+write file time is:0.135000 ms
+total running time is 84.339000 ms
+case6
+reading data time is:0.404000 ms
+totalcost:2602
+repeatededgesnum:4
+searching route time is:158.134000 ms
+write file time is:0.137000 ms
+total running time is 158.675000 ms
+case7
+reading data time is:0.476000 ms
+totalcost:3896
+repeatededgesnum:5
+searching route time is:203.122000 ms
+write file time is:0.218000 ms
+total running time is 203.816000 ms
+case8
+reading data time is:0.595000 ms
+totalcost:4407
+repeatededgesnum:4
+searching route time is:208.754000 ms
+write file time is:0.147000 ms
+total running time is 209.496000 ms
+case9
+reading data time is:0.551000 ms
+totalcost:4343
+repeatededgesnum:5
+searching route time is:291.021000 ms
+write file time is:0.156000 ms
+total running time is 291.728000 ms
+case10
+reading data time is:0.475000 ms
+totalcost:4431
+repeatededgesnum:5
+searching route time is:175.209000 ms
+write file time is:0.147000 ms
+total running time is 175.831000 ms
+case11
+reading data time is:0.602000 ms
+totalcost:5674
+repeatededgesnum:6
+searching route time is:245.992000 ms
+write file time is:0.161000 ms
+total running time is 246.755000 ms
