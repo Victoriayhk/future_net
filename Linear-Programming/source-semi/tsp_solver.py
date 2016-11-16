@@ -39,6 +39,7 @@ def tsp_solver(case):
     #################################### print result ##########################################
     recoredNext(nodes, t, flow)
     writeResult(case, nodes, s, t)
+    print "exam result(road0,road1,overlap,road sum):"
     subprocess.call(["./future_net_exam %s/topo.csv %s/demand.csv %s/result_gurobi.csv" % (case, case, case)], shell=True)
 
     overlap_edge = 0

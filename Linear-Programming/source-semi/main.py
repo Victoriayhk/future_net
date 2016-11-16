@@ -1,8 +1,10 @@
 # coding:utf-8
+# 命令行执行: gurobi.sh main.py
+# 估计也没有几个人研究这个代码。。。写的很乱。。。不明白请联系作者wechat:wangdongxuking61
 
 from tsp_solver import tsp_solver
 
-dir = "case-semi/"
+dir = "../../case-semi/"
 
 cases = [
 "case00",				# 0_6_10ms(gurobi:17ms_4ms)

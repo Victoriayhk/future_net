@@ -1,10 +1,12 @@
 # coding:utf-8
+# 命令行执行: gurobi.sh main.py
+# 估计也没有几个人研究这个代码。。。写的很乱。。。不明白请联系作者wechat:wangdongxuking61
 
 from tsp_solver import tsp_solver
 
 dir  = "../../case-pre/"
 cases = [
-# "case0", "case1", "case2", "case3", "case4",
+"case0", "case1", "case2", "case3", "case4",
 # "ofeiguanfang_zhongji",
 # "o600_4800_50",
 # "case_7s340ms_weight554",
